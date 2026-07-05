@@ -1,3 +1,3 @@
-# STORED-PROCEDURES
+# Stored Procedures
 
-This folder contains Store-procedure creation scripts.
+This folder contains all stored procedure scripts.
