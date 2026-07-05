@@ -1,0 +1,5 @@
+CREATE DATABASE SQLPractice;
+GO
+
+USE SQLPractice;
+GO
