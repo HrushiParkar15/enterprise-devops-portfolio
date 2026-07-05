@@ -1,4 +1,4 @@
-# TABLES
+# Tables
 
-This folder contains Tables creation scripts.
+This folder contains all table creation scripts.
 
