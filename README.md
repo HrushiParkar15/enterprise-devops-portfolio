@@ -1,2 +1,31 @@
-# enterprise-devops-portfolio
-Hi, I'm Hrushiparkar15, Azure DevOps Engineer | Azure DevOps Engineer Expert | SQL Server | Database CI/CD | Azure | Bicep | PowerShell  - Azure DevOps Engineer with hands-on experience in enterprise CI/CD pipelines.  Experience in SQL Server deployments and Azure SQL. Passionate about Infrastructure as Code, automation, and DevOps best practices. 
+# Enterprise DevOps Portfolio
+
+Welcome to my Enterprise DevOps Portfolio.
+
+## About Me
+
+Hi, I'm Hrushi Parkar.
+
+Azure DevOps Engineer | Microsoft Certified: Azure DevOps Engineer Expert
+
+I work on Azure DevOps pipelines, database deployments, SQL Server, Azure SQL, CI/CD, and automation.
+
+## Current Sprint
+
+🚀 Sprint 1 - SQL Server Foundations
+
+### Progress
+
+- ✅ SQLPractice Database
+- ✅ Customers Table
+- ✅ Production-ready Stored Procedure
+- 🔄 SQL Functions
+
+## Technologies
+
+- Azure DevOps
+- SQL Server
+- Azure SQL
+- Git
+- Bicep
+- PowerShell
