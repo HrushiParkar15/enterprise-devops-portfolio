@@ -1,0 +1,9 @@
+CREATE OR ALTER FUNCTION dbo.fn_CalculateGST
+(
+    @Price DECIMAL(10,2)
+)
+RETURNS DECIMAL(10,2)
+AS
+BEGIN
+    RETURN (@Price * 18) / 100;
+END;
