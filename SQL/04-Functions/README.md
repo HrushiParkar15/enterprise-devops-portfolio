@@ -1,3 +1,3 @@
 # Functions
 
-Fucntion script
+This folder contains all SQL function scripts.
